@@ -61,19 +61,5 @@ Sophisticated writing platform with rich text editing, user management, EditorJS
 - Led CI/CD, community engagement, global collaboration.
 - Delivered scalable solutions improving developer productivity.
 
----
 
-## 🎓 Education
-
-**B.E. Computer Science** – Bannari Amman Institute of Technology (2018–2022)
-- 8.65 GPA
-- Cyber Security certified (Safe Security)
-- Workshops on AI & ML
-
-**Full Stack Development Certificate** – Guvi Geek Network
-- 500+ hours coursework
-- 10+ portfolio projects
-- Specialized in React & Node.js
-
----
 
