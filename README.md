@@ -1,90 +1,79 @@
-<h1 align="center">Hello! 👋<br>I'm <span style="color:#255DFF;"><b>Harish G</b></span></h1>
-<p align="center">Software Developer • Problem Solver • Tech Enthusiast</p>
-
+<!-- HEADER SECTION -->
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/itsharishg"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://itsharishg.github.io"><img src="https://img.shields.io/badge/Portfolio-1abc9c?style=flat&logo=About.me&logoColor=white" /></a>
-  <a href="https://instagram.com/harishcodes"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Software%20Developer-blue?style=for-the-badge" />
+</p>
+
+<h1 align="center">Hello! 👋<br>
+I'm <span style="color:#255DFF;"><b>Harish G</b></span>
+</h1>
+
+<p align="center"><b>Crafting user-centric applications that solve real-world problems</b></p>
+<p align="center">
+  <a href="mailto:itsharishg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/itsharishg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://harish-govindasamy.github.io/devportfolio/"><img src="https://img.shields.io/badge/Portfolio-1abc9c?style=flat" /></a>
+  <a href="https://instagram.com/harishcodes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📝 About Me
+## 🧑‍💻 About Me
 
-I craft clean, user-centric applications that solve **real-world problems**.  
-With over 2 years of experience, I specialize in **modern development technologies** to build responsive and performant solutions across various industries. My passion for continuous learning and collaboration drives me to deliver high-quality results.  
-Open to new opportunities and meaningful collaborations!
+I specialize in building responsive, performant solutions using modern technologies. With over 2 years of experience, I deliver results in fast-paced environments, prioritizing clean code, collaboration, and continuous learning. Always open to new opportunities and meaningful collaborations!
 
 **Tech Stack:**  
-`Javascript` `React` `Node.js` `Python` `AWS` `Cloudflare` `Firebase` `MongoDB`
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
-## 🚀 Projects
+## 🛠 Projects
 
-### 🏷️ Enterprise Inventory Management System
-> Full-stack web app for inventory tracking, analytics, warranty management, and multi-user management.  
-> Modern React frontend and Node.js backend with JWT authentication, RESTful APIs, charts, and advanced features.
+### 1. Enterprise Inventory Management System
+A comprehensive inventory management platform with analytics, warranty, and user access control.
+**Stack:** React, Node.js, Express.js, MongoDB, JWT, REST APIs, Chart.js, Vite, Styled-JS
 
-**Stack:**  
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT Auth` `RESTful APIs` `Chart.js` `Vite` `Styled-JS`
+### 2. URL Shortener with Analytics Dashboard
+Shortened URLs, authentication, analytics, real-time dashboards, built with React and Node.js, deployed on Netlify & Render.
+**Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS, Chart.js, JWT, Vite
 
----
-
-### 🏷️ URL Shortener with Analytics Dashboard
-> Full-stack application for creating short URLs, user authentication, analytics tracking, and rich dashboard insights.  
-> Built with modern React and Node.js, deployed on Netlify and Render.
-
-**Stack:**  
-`React` `Node.js` `Express.js` `MongoDB` `Tailwind` `Chart.js` `JWT Auth` `Vite`
-
----
-
-### 🏷️ Inkwell – Modern Blogging Platform
-> Full-stack blogging app featuring rich text editing, user authentication, responsive design, EditorJS integration, real-time uploads and profiles.
-
-**Stack:**  
-`React` `Node.js` `Express.js` `MongoDB` `Firebase` `AWS S3` `Cloudflare R2` `Tailwind`
+### 3. Inkwell – Modern Blogging Platform
+Sophisticated writing platform with rich text editing, user management, EditorJS integration, and responsive UI.
+**Stack:** React, Node.js, Express.js, MongoDB, Firebase, AWS S3, Cloudflare R2, Tailwind CSS
 
 ---
 
 ## 💼 Experience
 
-**Software Developer** – ArrowDigits `(Jul 2023 – Jul 2025)`  
-- Built and launched MVP product from scratch using React and Node.js.  
-- Implemented CI/CD pipeline, reducing deployment time by 60%.  
-- Collaborated with product team to define technical requirements.  
-- Led CRM system, inventory management, and student platform projects.
+**Software Developer, ArrowDigits** (Jul 2023 – Jul 2025)
+- Built and launched MVPs using React & Node.js.
+- Led CI/CD deployments, reducing time by 60%.
+- Defined technical requirements, collaborated cross-functionally.
+- Projects: CRM, inventory, student management system.
 
-**Contributor** – Open Source Contributor `(Aug 2022 – Jun 2023)`  
-- Led integrations of modern front-end tech across multi-platform projects.  
-- Worked with cross-functional global teams for CI/CD, community engagement, and scalable solutions.
+**Open Source Contributor** (Aug 2022 – Jun 2023)
+- Modernized front-end tech in multi-platform FOSS.
+- Led CI/CD, community engagement, global collaboration.
+- Delivered scalable solutions improving developer productivity.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering in Computer Science**  
-Bannari Amman Institute of Technology `(2018 – 2022)`  
-- Graduated with 8.65 GPA  
-- Cyber Security certified by Safe Security  
-- Workshops on AI and ML
+**B.E. Computer Science** – Bannari Amman Institute of Technology (2018–2022)
+- 8.65 GPA
+- Cyber Security certified (Safe Security)
+- Workshops on AI & ML
 
-**Full Stack Development Certificate**  
-Guvi Geek Network  
-- Completed 500+ hours of coursework  
-- Built 10+ portfolio projects  
-- Specialized in React and Node.js
-
----
-
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/itsharishg"><img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://itsharishg.github.io"><img src="https://img.shields.io/badge/Portfolio-1abc9c?logo=About.me&logoColor=white" /></a>
-  <a href="https://instagram.com/harishcodes"><img src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white" /></a>
-</p>
+**Full Stack Development Certificate** – Guvi Geek Network
+- 500+ hours coursework
+- 10+ portfolio projects
+- Specialized in React & Node.js
 
 ---
 
